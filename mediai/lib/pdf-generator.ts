@@ -29,7 +29,7 @@ export async function generatePDF(analysis: Analysis): Promise<Blob> {
   doc.setFontSize(22);
   doc.setTextColor(0, 0, 255);
   doc.setFont('helvetica', 'bold');
-  doc.text('MediQuest', pageWidth / 2, yPos, { align: 'center' });
+  doc.text('MediAI', pageWidth / 2, yPos, { align: 'center' });
   yPos += 10;
   doc.setFontSize(16);
   doc.setTextColor(0, 0, 0);

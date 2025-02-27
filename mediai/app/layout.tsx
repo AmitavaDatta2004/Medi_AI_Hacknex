@@ -19,7 +19,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "MediQuest - AI-Powered Healthcare Solutions",
+  title: "MediAi - AI-Powered Healthcare Solutions",
   description:
     "Decode Your Symptoms, Discover the Right Cure, and Stay Informed! Your go-to source for medicine info, accurate diagnoses, and expert health insights.",
 };

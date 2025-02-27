@@ -97,7 +97,7 @@ export default function Navbar() {
                 />
               </motion.div>
               <span className="text-2xl font-bold gradient-text">
-                MediQuest
+                MediAI
               </span>
             </Link>
           </motion.div>
