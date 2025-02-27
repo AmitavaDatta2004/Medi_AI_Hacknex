@@ -2,7 +2,7 @@
 
 import Hero from "@/components/Hero";
 import Features from "@/components/Features";
-import Developers from "@/components/Developers";
+// import Developers from "@/components/Developers";
 import Footer from "@/components/Footer";
 import Testimonials from "@/components/Testimonials";
 
